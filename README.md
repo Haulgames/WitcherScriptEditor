@@ -14,3 +14,5 @@
 [DonationAlerts](https://www.donationalerts.com/r/glebyoutuber)
 
 ## Activities
+
+![GitHub release (by tag)](https://img.shields.io/github/downloads/Haulgames/WitcherScriptEditor/0.1beta/total?color=lightgreen&logo=github&logoColor=green&style=for-the-badge)
